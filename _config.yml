@@ -14,10 +14,9 @@ url:              http://lanyon.getpoole.com
 author:
   name:           'Lachlan Dai'
   url:            https://twitter.com/lachlandai
-  email:          hello@lachlandai.com
 
 paginate:         5
-baseurl:          http://lachlandai.github.io/lanyon/
+baseurl:          http://lachlandai.github.io/lanyon
 
 # Custom vars
 version:          1.1.2
