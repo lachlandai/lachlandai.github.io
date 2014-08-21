@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Lachlan Dai
 tagline:          A Jekyll theme
-url:              http://lachlandai.github.io/lanyon
+url:              http://lachlandai.github.io/lanyon/
 #baseurl:          http://lachlandai.github.io/lanyon/
 paginate:         5
 
